@@ -1,4 +1,4 @@
-# RescueBot: AA 274A Group 34
+# Codebase for RescueBot: AA 274A Group 34
 
 This contains a _starting point_ for your final project. Below are _brief_
 descriptions of the code. You are strongly encouraged to take a closer look into
